@@ -117,3 +117,20 @@ h1,h2,h3{
     background-color: #ad4d08;
  
 }
+
+
+.dovody__nadpis {
+    text-align: center;
+    
+}
+
+.vyhody {
+    display: grid;
+    grid-template-columns: 1fr;
+}
+
+.vyhoda {
+    background-color: var(--pozadie-biela);
+    padding: var(--medzera-m);
+    box-shadow: 0 2px 8px rgb(0,0,0,0.1);
+}
